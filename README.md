@@ -18,7 +18,7 @@ Built with:
 - **Support Agent** → Review AI suggestions, edit/send replies, close tickets  
 - **Admin** → Manage Knowledge Base (KB), configure SLA, set auto-close thresholds  
 
-### 🤖 AI-Inspired Triage Workflow
+### 🤖 AI Powered Helpdesk Ticketing System
 - **Classification** → Predicts ticket category (billing, tech, shipping, etc.)  
 - **Retrieval** → Fetches top 3 relevant KB articles (RAG-style)  
 - **Drafting** → Suggests a draft reply referencing KB  
