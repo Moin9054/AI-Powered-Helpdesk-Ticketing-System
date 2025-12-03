@@ -11,7 +11,7 @@ Built with:
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Features.
 
 ### 🧑‍💻 Role-Based Access
 - **End User** → Create tickets, view status, reply  
