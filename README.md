@@ -25,7 +25,7 @@ Built with:
 - **Decision** → Confidence-based auto-close (≥ threshold) or escalate to human agent  
 - **Audit Logging** → Every step logged with trace IDs for transparency  
 
-### 📚 Knowledge Base
+### 📚 Knowledge Base.
 - Searchable KB with `/api/kb?query=...`  
 - Batch hydrate `/api/kb/batch`  
 - Individual article detail `/api/kb/:id`  
