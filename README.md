@@ -1,4 +1,4 @@
-# 🤖 Smart Helpdesk with AI-Inspired Triage
+# 🤖 Smart Helpdesk with AI-Inspired Triage.
 
 A full-stack **AI Powered Helpdesk Ticketing System** that simulates how real-world support platforms integrate machine learning for ticket triage and knowledge retrieval.  
 
